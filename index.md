@@ -431,18 +431,4 @@ print(J)
     [[ 8 19  3]
      [ 3 16 12]
      [18  5  4]]
-    
-
-
-```python
-!jupyter nbconvert --to html gp2.ipynb
-```
-
-    [NbConvertApp] Converting notebook gp2.ipynb to html
-    [NbConvertApp] Writing 615089 bytes to gp2.html
-    
-
-
-```python
-
-```
+   
